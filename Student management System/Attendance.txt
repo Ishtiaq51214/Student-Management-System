@@ -1,0 +1,38 @@
+Attendance sheet of course : Analysis of Algorithms
+Abdul Bari : A
+Abubakar Siddiq : A
+Ahmad Usama : A
+Alishba Ghazanfar : A
+Ammar Ahmed : A
+Anila Khan : A
+Eeman Ijaz : A
+Fahad Ramzan : A
+Faizan Ul Haq : A
+Farrah Khan : A
+Fasih Ur Rehman : A
+Fatima Asim : A
+Hamza Sabih : A
+Hanzala Malik : A
+Haziq Ijaz : A
+Maemoon Farooq : A
+Mahad Saeed : A
+Mahrukh Wahidi : A
+Moaz Murtaza : A
+Muhammad Ali : A
+Muhammad Bilal : A
+Muhammad Owais : A
+Muhammad Qasim : A
+Muhammad Uzair : A
+Muneeb Rashid : A
+Nayyera Wasim : A
+Nimra Khan : A
+Riyyan Ahmad : A
+Ruwaid Imran : A
+Shahzad Ahmad : A
+Shitba Kashif : A
+Taha Rasheed : A
+Talha Tariq : A
+Tashfeen abbasi : A
+Umema Ashar : A
+Umm e Hani : A
+Wajeeh Ul Hassan : A
